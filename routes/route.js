@@ -1,6 +1,6 @@
 exports.home=function(req,res){
   res.render('home',{title:'Mycity Hotels',
-                    headline:'Best hotels in chennai'
+                    headline:'Best hotels in Bangalore'
                     });
                   }
 
